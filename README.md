@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://robertocpaes.dev](robertocpaes.dev)
 
-- 📝 I regularly write articles on [http://srobertinho.net](robertinho.net)
+- 📝 I regularly write articles on [https://robertinho.net](robertinho.net)
 
 - 📫 How to reach me **contato@robertocpaes.dev**
 
