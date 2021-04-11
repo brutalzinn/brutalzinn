@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [robertocpaes.dev](robertocpaes.dev)
+- 👨‍💻 All of my projects are available at [https://robertocpaes.dev](robertocpaes.dev)
 
-- 📝 I regularly write articles on [robertinho.net](robertinho.net)
+- 📝 I regularly write articles on [http://srobertinho.net](robertinho.net)
 
 - 📫 How to reach me **contato@robertocpaes.dev**
 
