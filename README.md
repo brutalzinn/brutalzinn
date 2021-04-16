@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at https://robertocpaes.dev
 
-- 📝 I regularly write articles on https://robertinho.net
-
 - 📫 How to reach me **contato@robertocpaes.dev**
 
 - ⚡ Fun fact:  **I like much plays minecraft. This game is simple amazing. Got me started in the world of programming**
