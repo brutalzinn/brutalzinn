@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Paes</h1>
 <h3 align="center">A developer that thinks the world is more flexible when you have all the sandbox control.</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=brutalzinn&row=2&column=4" alt="brutalzinn" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=brutalzinn&row=2&column=4" alt="brutalzinn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
