@@ -37,4 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brutalzinn&show_icons=true&locale=en" alt="brutalzinn" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brutalzinn&" alt="brutalzinn" /></p>
 
-<a href="https://wakatime.com/@321db255-03b2-46b6-bd52-1092a5f21be7"><img src="https://wakatime.com/badge/user/321db255-03b2-46b6-bd52-1092a5f21be7.svg" alt="Total time coded since Jan 17 2022" /></a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brutalzinn)](https://github.com/anuraghazra/github-readme-stats)
+
