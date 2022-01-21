@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/brutalzinn?tab=repositories](https://github.com/brutalzinn?tab=repositories)
 
-- 📝 I regularly write articles on [robertinho.net](robertinho.net)
+- 📝 I regularly write articles on my personal blog [robertinho.net](https://robertinho.net)
 
-- 📫 How to reach me **contato@robertocpaes.dev**
+- 📫 My dev page https://robertocpaes.dev
 
 - ⚡ Fun fact **I like much plays minecraft. This game is simple amazing. Got me started in the world of programming**
 ![alt text](zombie-dancing-minecraft.gif)
