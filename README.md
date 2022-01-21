@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on my personal blog [robertinho.net](https://robertinho.net)
 
-- 📫 My dev page https://robertocpaes.dev
+- 📫 My dev page [robertocpaes.dev](https://robertocpaes.dev)
 
 - ⚡ Fun fact **I like much plays minecraft. This game is simple amazing. Got me started in the world of programming**
 ![alt text](zombie-dancing-minecraft.gif)
