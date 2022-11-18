@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Minecraft Server Docker Manager](https://github.com/brutalzinn/minecraft-server-dockermanager)
+- 🔭 I’m currently working on [String Placeholder Nuget Package](https://github.com/brutalzinn/string-placeholder)
 
-- 🌱 I’m currently learning **Python and OOP**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brutalzinn?tab=repositories](https://github.com/brutalzinn?tab=repositories)
 
