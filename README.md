@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Boberto Minecraft Modded Manager]([https://github.com/brutalzinn/string-placeholder](https://github.com/boberto-projects))
 
-- 🌱 I’m currently learning **C# and projects pattern for MAUI**
+- 🌱 I’m currently learning **C# MAUI Frontend development with MVC Pattern**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brutalzinn?tab=repositories](https://github.com/brutalzinn?tab=repositories)
 
