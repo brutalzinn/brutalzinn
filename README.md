@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [String Placeholder Nuget Package](https://github.com/brutalzinn/string-placeholder)
+- 🔭 I’m currently working on [Boberto Minecraft Modded Manager]([https://github.com/brutalzinn/string-placeholder](https://github.com/boberto-projects))
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **C# and projects pattern for MAUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brutalzinn?tab=repositories](https://github.com/brutalzinn?tab=repositories)
-
-- 📝 I regularly write articles on my personal blog [robertinho.net](https://robertinho.net)
 
 - 📫 My dev page [robertocpaes.dev](https://robertocpaes.dev)
 
