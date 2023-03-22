@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto Paes</h1>
-<h3 align="center">A developer that thinks the world is more flexible when you have all the sandbox control.</h3>
+<h3 align="center">A 23 year old developer. poetry writer and cat dad.</h3>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=brutalzinn&row=2&column=4" alt="brutalzinn" /> </p>
 
