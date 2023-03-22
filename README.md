@@ -5,16 +5,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Boberto Minecraft Modded Manager](https://github.com/boberto-projects)
+- 🔭 I’m currently working on [Go API Task Manager](https://github.com/brutalzinn/api-task-list)
 
-- 🌱 I’m currently learning **C# MAUI Frontend development with MVC Pattern**
+- 🌱 I’m currently learning **Go api development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brutalzinn?tab=repositories](https://github.com/brutalzinn?tab=repositories)
 
 - 📫 My dev page [robertocpaes.dev](https://robertocpaes.dev)
 
-- ⚡ Fun fact **I like much plays minecraft. This game is simple amazing. Got me started in the world of programming**
-![alt text](zombie-dancing-minecraft.gif)
+- 📫 My dev blog page [blog.robertocpaes.dev](https://blog.robertocpaes.dev)
+
+
+- ⚡ Fun fact **Minecraft started at development world**
 
 
 
