@@ -37,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brutalzinn&show_icons=true&locale=en" alt="brutalzinn" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brutalzinn&" alt="brutalzinn" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@brutalzinn)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@brutalzinn&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
