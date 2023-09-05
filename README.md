@@ -28,9 +28,9 @@
   </a>
 </div>
 
-###
+### Last Week Activity
 
-This data is tracked by [wakatime](https://wakatime.com)
+This data is tracked by [wakatime](https://wakatime.com) and is used for self-care purposes with my well-being.
 
 <!--START_SECTION:waka-->
 
