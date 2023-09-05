@@ -22,9 +22,15 @@
   <a href="https://linkedin.com/in/roberto-paes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
+   <a href="./assets/cv-roberto-carneiro-paes.pdf" download>
+    <img src="https://img.shields.io/static/v1?message=Download do meu CV&label=PT&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="download curriculum vitae pdf"  />
+  </a>
 </div>
 
 ###
+
+This data is tracked by [wakatime](https://wakatime.com)
 
 <!--START_SECTION:waka-->
 
@@ -45,7 +51,5 @@ JavaScript       1 hr 24 mins    ▓░░░░░░░░░░░░░░�
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/brutalzinn/brutalzinn/output/snake.svg" alt="Snake animation" />
 
 ###
