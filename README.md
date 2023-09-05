@@ -1,5 +1,5 @@
   <a href="httos://blog.robertocpaes.dev" target="_blank">
-    <img src="images/profile_title.png" alt="profile title image"  />
+    <img src="assets/images/profile_title.png" alt="profile title image"  />
   </a>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brutalzinn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -46,7 +46,7 @@ JavaScript       1 hr 24 mins    ▓░░░░░░░░░░░░░░�
 
 ###
 
-<img align="right" height="150" src="images/robertinhoxx.png"  />
+<img align="right" height="150" src="assets/images/robertinhoxx.png"  />
 
 ###
 
