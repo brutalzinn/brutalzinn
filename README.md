@@ -35,7 +35,7 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Go   1 min           █████████████████████████   100.00 %
+Go   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
