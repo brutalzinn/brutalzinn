@@ -35,11 +35,11 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Go         5 hrs 6 mins    █████████████████████▓░░░   86.29 %
-JSON       36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Dart       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go         2 hrs 24 mins   █████████████████████▒░░░   85.68 %
+JSON       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Dart       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
