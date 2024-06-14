@@ -35,11 +35,11 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              25 hrs 52 mins  ███████████████▓░░░░░░░░░   62.06 %
-Blade Template   4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-Dart             3 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-YAML             1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Docker           1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+PHP              27 hrs 5 mins   ████████████████▓░░░░░░░░   66.47 %
+Blade Template   5 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+YAML             1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Docker           1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Dart             1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
