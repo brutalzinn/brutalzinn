@@ -35,11 +35,11 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              15 hrs 55 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-Blade Template   15 hrs 7 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-JavaScript       6 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Dart             6 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Go               5 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+PHP              14 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Blade Template   11 hrs 43 mins  █████░░░░░░░░░░░░░░░░░░░░   20.27 %
+JavaScript       7 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+Dart             6 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Go               5 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
 ```
 
 <!--END_SECTION:waka-->
