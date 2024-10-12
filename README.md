@@ -35,11 +35,11 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   7 hrs 46 mins   ████████████░░░░░░░░░░░░░   47.77 %
-PHP              5 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   36.80 %
-JavaScript       1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Other            40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-SQL              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Blade Template   12 hrs 57 mins  ██████████████░░░░░░░░░░░   55.88 %
+PHP              5 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+JavaScript       1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Other            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+SQL              35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
