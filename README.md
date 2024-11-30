@@ -35,11 +35,11 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         2 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
-Dart         2 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   31.01 %
-TypeScript   1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Makefile     46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-JavaScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Dart         4 hrs 1 min     ███████████▒░░░░░░░░░░░░░   45.12 %
+TypeScript   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+JavaScript   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+YAML         59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Go           57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
 ```
 
 <!--END_SECTION:waka-->
