@@ -35,11 +35,9 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              3 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   37.44 %
-JavaScript        2 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   28.90 %
-Go                1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-Other             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Docker            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Java Properties   8 mins          █████████████████████████   99.54 %
+Batchfile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
