@@ -35,9 +35,11 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Java Properties   8 mins          █████████████████████████   99.54 %
-Batchfile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Go           16 mins         ███████▓░░░░░░░░░░░░░░░░░   31.23 %
+Other        10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+JSON         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Bash         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
 ```
 
 <!--END_SECTION:waka-->
