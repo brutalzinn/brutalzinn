@@ -35,11 +35,7 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       4 mins          █████████████▒░░░░░░░░░░░   53.43 %
-Go           3 mins          ██████████▓░░░░░░░░░░░░░░   42.20 %
-YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
