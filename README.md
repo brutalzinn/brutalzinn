@@ -35,11 +35,7 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      27 mins         ███████████▓░░░░░░░░░░░░░   47.21 %
-HTML          11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-TOML          10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-CSS           6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Makefile      3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
