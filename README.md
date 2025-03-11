@@ -35,11 +35,10 @@ This data is tracked by [wakatime](https://wakatime.com) and is used for self-ca
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 33 mins    ████████████▓░░░░░░░░░░░░   50.74 %
-Go           55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.97 %
-Docker       22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-HTML         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Markdown   1 hr 33 mins    ███████████████████▒░░░░░   76.96 %
+Go         27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
