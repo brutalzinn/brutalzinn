@@ -24,13 +24,11 @@
   </a>
 
    <a href="./assets/cv-roberto-carneiro-paes.pdf" download>
-    <img src="https://img.shields.io/static/v1?message=Download do meu CV&label=PT&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="download curriculum vitae pdf"  />
+    <img src="https://img.shields.io/static/v1?message=Download-do-meu-CV&label=PT&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="download curriculum vitae pdf"  />
   </a>
 </div>
 
 ### Last Week Activity
-
-This data is tracked by [wakatime](https://wakatime.com) and is used for self-care purposes with my well-being.
 
 <!--START_SECTION:waka-->
 
