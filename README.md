@@ -60,17 +60,4 @@ Go               1 hr 31 mins          █░░░░░░░░░░░░�
       </td>
     </tr>
   </table>
-
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.habbo.com.br/profile/robertinho.net" target="_blank">
-          <img src="http://www.habbo.com.br/habbo-imaging/avatarimage?user=robertinho.net&action=&direction=4&head_direction=3&img_format=png&gesture=std&frame=0&headonly=0&size=l" alt="Habbo Avatar" />
-          <div style="margin-top: -30px; font-weight: bold; color: black; text-shadow: 1px 1px 2px white;">
-            robertinho.net
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
